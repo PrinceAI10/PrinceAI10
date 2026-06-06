@@ -12,6 +12,10 @@ PROJECTS:
  Random secure password generator with strength checking and file export.
  Python, random, and string modules.
 
+ ghana-phone-validator
+ Validate Ghanaian phone numbers and identify network provider. File processing and reporting.
+ Python, OOP, File I/O.
+
  prince_ai_bootcamp.
  Daily Python learning log. 112 days of fundamentals. Active recall method.
  Python, Git, daily commits since May 9, 2026.
