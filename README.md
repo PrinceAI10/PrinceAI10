@@ -24,9 +24,13 @@ blog
 Day 30: What Building Real Projects Taught Me About Learning
 https://medium.com/@princeowusuafriyie20/day-30-what-building-real-projects-taught-me-about-learning-6d10413e2ec8
 
+dumsor-visualizer
+Analyze power outage patterns in Ghana. CSV processing, data aggregation, and reporting.
+Python, OOP, File I/O, CSV module.
+
 
 BUILDING NEXT
-Dumsor AI — load-shedding prediction for Ghana
+Dumsor AI — load-shedding prediction for Ghana (green check, v1 shipped)
 Galamsey Detection — satellite monitoring of illegal mining
 Twi NLP — language models for Ghanaian languages
 Sankofa AI — AI infrastructure for Africa
